@@ -20,12 +20,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01_num_checker.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="01_num_checker.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_num_checker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_yes_no_checker.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_yes_no_checker.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00_main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/00_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#210#472#0" expanded="false" />
+                <element signature="e#577#918#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,6 +69,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01_num_checker.py" />
+        <option value="$PROJECT_DIR$/02_yes_no_checker.py" />
+        <option value="$PROJECT_DIR$/00_main.py" />
       </list>
     </option>
   </component>
@@ -103,7 +128,12 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.01_num_checker">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\volodiny71299\OneDrive - Massey High School\Documents\COM201\Fund-Raising-Calculator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.02_yes_no_checker">
     <configuration default="false" name="01_num_checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,6 +147,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Fund-Raising-Calculator" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_num_checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="02_yes_no_checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fund-Raising-Calculator" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_yes_no_checker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -255,12 +302,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.01_num_checker" />
+      <item index="1" class="java.lang.String" itemvalue="Python.02_yes_no_checker" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.01_num_checker" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.02_yes_no_checker" />
+        <item index="1" class="java.lang.String" itemvalue="Python.01_num_checker" />
       </list>
     </recent_temporary>
   </component>
@@ -279,9 +328,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18058455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18058455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -319,8 +368,27 @@
     <entry file="file://$PROJECT_DIR$/01_num_checker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_yes_no_checker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#210#472#0" expanded="false" />
+            <element signature="e#577#918#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
