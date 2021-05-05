@@ -88,3 +88,4 @@ for item in add_dollars:
 # *** Printing Area ***
 print(variable_frame)
 print()
+print("Variable Costs: ${:.2f}".format(variable_sub))
