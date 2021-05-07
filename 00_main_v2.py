@@ -76,7 +76,7 @@ def get_expenses(var_fixed):
     expense_frame = expense_frame.set_index('Item')
 
     # calculate cost of each component
-    expense_frame['Cost'] = expense_frame['Quantity'] * expense_frame
+    expense_frame['Cost'] = expense_frame['Quantity'] * expense_frame['Price']
 
     # Find sub total
     sub_total = expense_frame['Cost'].sum()
@@ -95,20 +95,32 @@ def expenses_print(heading, frame, subtotal):
     print(frame)
     print()
     print("{} Costs: ${:.2f}".format(heading, subtotal))
-    return
+    return ""
 
 # *** Main Routine Starts Here ***
 
 # get product name (cant be blank)
 product_name = not_blank("Product name: ", "The product name cannot be blank")
 
+# get variable costs
+variable_expenses = get_expenses("variable")
+variable_frame = variable_expenses[0]
+variable_sub = variable_expenses[1]
+
+
+# get fixed variable costs
 fixed_expenses = get_expenses("variable")
 fixed_frame = fixed_expenses[0]
 fixed_sub = fixed_expenses[1]
 
 # *** Printing Area ***
+print("*** Variable Costs ***")
 print()
+print(variable_frame)
+print()
+print("Variable Costs: ${:.2f}".format(variable_sub))
+
+print("*** Fixed Costs ***")
 print(fixed_frame[['Cost']])
 print()
-
 print("Fixed Costs: ${:.2f}".format(fixed_sub))
