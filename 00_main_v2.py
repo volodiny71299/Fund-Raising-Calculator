@@ -109,7 +109,7 @@ variable_sub = variable_expenses[1]
 
 
 # get fixed variable costs
-fixed_expenses = get_expenses("variable")
+fixed_expenses = get_expenses("fixed")
 fixed_frame = fixed_expenses[0]
 fixed_sub = fixed_expenses[1]
 
