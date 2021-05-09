@@ -72,7 +72,7 @@ def get_expenses(var_fixed):
     expense_frame = expense_frame.set_index('Item')
 
     # calculate cost of each component
-    expense_frame['Cost'] = expense_frame['Quantity'] * expense_frame
+    expense_frame['Cost'] = expense_frame['Quantity'] * expense_frame['Price']
 
     # Find sub total
     sub_total = expense_frame['Cost'].sum()

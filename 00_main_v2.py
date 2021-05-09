@@ -35,6 +35,24 @@ def currency(x):
     return "${:.2f}".format(x)
 
 
+# checks that the input is yes or no otherwise prints an error
+def yes_no(question):
+
+    error = "please answer yes/no"
+
+    valid = False
+    while not valid:
+
+        # ask question and put response in lowercase
+        response = input(question).lower()
+        if response == "yes" or response == "y":
+            return response
+        elif response == "no" or response == "n":
+            return response
+        else:
+            print(error)
+
+
 # gets expenses, returns list which has the data frame and sub total
 def get_expenses(var_fixed):
 
@@ -102,25 +120,31 @@ def expenses_print(heading, frame, subtotal):
 # get product name (cant be blank)
 product_name = not_blank("Product name: ", "The product name cannot be blank")
 
+print()
+print("Please enter your variable costs below...")
+
 # get variable costs
 variable_expenses = get_expenses("variable")
 variable_frame = variable_expenses[0]
 variable_sub = variable_expenses[1]
 
-
-# get fixed variable costs
-fixed_expenses = get_expenses("fixed")
-fixed_frame = fixed_expenses[0]
-fixed_sub = fixed_expenses[1]
-
-# *** Printing Area ***
-print("*** Variable Costs ***")
 print()
-print(variable_frame)
-print()
-print("Variable Costs: ${:.2f}".format(variable_sub))
+have_fixed = yes_no("Do you have fixed costs (y / n)? ")
 
-print("*** Fixed Costs ***")
-print(fixed_frame[['Cost']])
+if have_fixed == "yes" or have_fixed == "y":
+    # get fixed costs
+    fixed_expenses = get_expenses("fixed")
+    fixed_frame = fixed_expenses[0]
+    fixed_sub = fixed_expenses[1]
+
+else:
+    fixed_sub = 0
+
+
 print()
-print("Fixed Costs: ${:.2f}".format(fixed_sub))
+print("*** Fund Raising - {} ***".format(product_name))
+print()
+expenses_print("Variable", variable_frame, variable_sub)
+
+if have_fixed == "yes":
+    expenses_print("Fixed", fixed_frame[['Cost']], fixed_sub)
