@@ -153,5 +153,3 @@ if have_fixed == "yes" or have_fixed == "y":
 
 print()
 print("Total: ${:.2f}".format(fixed_sub + variable_sub))
-
-expenses_print("Costs")
