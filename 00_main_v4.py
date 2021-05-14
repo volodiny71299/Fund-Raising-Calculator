@@ -209,7 +209,15 @@ if have_fixed == "yes" or have_fixed == "y":
 else:
     fixed_sub = 0
 
+all_costs = variable_sub + fixed_sub
+profit_target = profit_goal(all_costs)
 
+# calculate recommended price
+selling_price = 0
+
+# write data to file
+
+# *** printing area ***
 
 print()
 print("*** Fund Raising - {} ***".format(product_name))
@@ -218,7 +226,16 @@ print()
 expenses_print("Variable", variable_frame, variable_sub)
 
 if have_fixed == "yes" or have_fixed == "y":
-    expenses_print("Fixed", fixed_frame, fixed_sub)
+    expenses_print("Fixed", fixed_frame[['Cost']], fixed_sub)
 
 print()
-print("Total: ${:.2f}".format(fixed_sub + variable_sub))
+print("*** Total Costs: ${:.2f} ***".format(all_costs))
+print()
+
+print()
+print("***& Profit & Sales Targets ***")
+print("Profit Target: ${:.2f}".format(profit_target))
+print("Total Sales: ${:.2f}".format(all_costs + profit_target))
+
+print()
+print("*** Recommended Selling Price: ${:.2f}".format(selling_price))
