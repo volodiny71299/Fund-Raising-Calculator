@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="00_main_v5.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="00_main_v5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/00_main_v5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="498">
@@ -80,8 +80,18 @@
       <file leaf-file-name="06b_recommended_price.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06b_recommended_price.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07_export_file_v1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07_export_file_v1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -115,6 +125,7 @@
         <option value="$PROJECT_DIR$/06_round_up.py" />
         <option value="$PROJECT_DIR$/06b_recommended_price.py" />
         <option value="$PROJECT_DIR$/00_main_v5.py" />
+        <option value="$PROJECT_DIR$/07_export_file_v1.py" />
       </list>
     </option>
   </component>
@@ -472,13 +483,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02_yes_no_checker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_variable_costs_v1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
@@ -818,14 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06b_recommended_price.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/00_main_v5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="498">
@@ -841,6 +837,22 @@
             <element signature="e#3049#5102#0" expanded="false" />
             <element signature="e#5158#5209#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06b_recommended_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_export_file_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
