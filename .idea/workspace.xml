@@ -41,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="00_main_v4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="00_main_v4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/00_main_v4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="241" column="0" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
+            <state relative-caret-position="518">
+              <caret line="224" column="0" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
               <folding>
                 <element signature="e#124#386#0" expanded="false" />
                 <element signature="e#467#674#0" expanded="false" />
@@ -54,6 +54,16 @@
                 <element signature="e#2830#2985#0" expanded="false" />
                 <element signature="e#3037#5089#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_round_up.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/06_round_up.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,12 +93,13 @@
         <option value="$PROJECT_DIR$/00_main_v2.py" />
         <option value="$PROJECT_DIR$/05_profit_goal.py" />
         <option value="$PROJECT_DIR$/00_main_v4.py" />
+        <option value="$PROJECT_DIR$/06_round_up.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="876" />
-    <option name="width" value="1051" />
+    <option name="x" value="884" />
+    <option name="width" value="1043" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -116,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -137,6 +147,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -149,24 +160,7 @@
       <recent name="C:\Users\volodiny71299\OneDrive - Massey High School\Documents\COM201\Fund-Raising-Calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_profit_goal">
-    <configuration default="false" name="04_variable_costs_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Fund-Raising-Calculator" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_variable_costs_v1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.06_round_up">
     <configuration default="false" name="00_main_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,6 +225,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Fund-Raising-Calculator" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_profit_goal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="06_round_up" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fund-Raising-Calculator" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_round_up.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -370,19 +381,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.04_variable_costs_v1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.00_main_v2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.04_fixed_costs_v1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.03_variable_costs_v2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.05_profit_goal" />
+      <item index="0" class="java.lang.String" itemvalue="Python.00_main_v2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.04_fixed_costs_v1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.03_variable_costs_v2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.05_profit_goal" />
+      <item index="4" class="java.lang.String" itemvalue="Python.06_round_up" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.05_profit_goal" />
-        <item index="1" class="java.lang.String" itemvalue="Python.00_main_v2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.04_fixed_costs_v1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.03_variable_costs_v2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.04_variable_costs_v1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.06_round_up" />
+        <item index="1" class="java.lang.String" itemvalue="Python.05_profit_goal" />
+        <item index="2" class="java.lang.String" itemvalue="Python.00_main_v2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.04_fixed_costs_v1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.03_variable_costs_v2" />
       </list>
     </recent_temporary>
   </component>
@@ -400,15 +411,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="876" y="0" width="1051" height="1047" extended-state="0" />
+    <frame x="884" y="0" width="1043" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13437195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3479189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3479189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -440,11 +451,25 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/00_main_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#124#386#0" expanded="false" />
+            <element signature="e#467#674#0" expanded="false" />
+            <element signature="e#845#1209#0" expanded="false" />
+            <element signature="e#1312#2777#0" expanded="false" />
+            <element signature="e#2830#2985#0" expanded="false" />
+            <element signature="e#3037#5089#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_num_checker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -452,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,10 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
           <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding>
-            <element signature="e#106#368#0" expanded="false" />
-            <element signature="e#449#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,11 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="52" selection-end-column="24" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -483,7 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,7 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -499,10 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-          <folding>
-            <element signature="e#106#368#0" expanded="false" />
-            <element signature="e#449#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,11 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="48" column="20" selection-start-line="38" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,11 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -534,7 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4131">
           <caret line="244" column="9" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -550,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -558,10 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-          <folding>
-            <element signature="e#106#368#0" expanded="false" />
-            <element signature="e#449#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -569,11 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="48" column="20" selection-start-line="38" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,11 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -601,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,10 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-          <folding>
-            <element signature="e#106#368#0" expanded="false" />
-            <element signature="e#449#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -627,11 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="97" selection-end-column="13" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,11 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,10 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-          <folding>
-            <element signature="e#106#368#0" expanded="false" />
-            <element signature="e#449#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -693,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -701,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -709,10 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
           <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
-          <folding>
-            <element signature="e#106#368#0" expanded="false" />
-            <element signature="e#449#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,7 +730,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -788,7 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -811,10 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
           <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding>
-            <element signature="e#106#368#0" expanded="false" />
-            <element signature="e#449#656#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -822,11 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="52" selection-end-column="24" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -834,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="274" column="0" selection-start-line="274" selection-start-column="0" selection-end-line="274" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,11 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding>
-            <element signature="e#105#367#0" expanded="false" />
-            <element signature="e#448#655#0" expanded="false" />
-            <element signature="e#707#733#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -863,8 +796,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/00_main_v4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="241" column="0" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
+        <state relative-caret-position="518">
+          <caret line="224" column="0" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
           <folding>
             <element signature="e#124#386#0" expanded="false" />
             <element signature="e#467#674#0" expanded="false" />
@@ -873,6 +806,14 @@
             <element signature="e#2830#2985#0" expanded="false" />
             <element signature="e#3037#5089#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_round_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
