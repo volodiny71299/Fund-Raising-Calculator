@@ -1,0 +1,18 @@
+Custom Mugs
+
+        Item  Price  Quantity
+0       Mugs   1.00       300
+1   Printing   0.50       300
+2  Packaging   0.75        50
+
+          Item  Price
+0         Rent     25
+1      Artwork     30
+2  Advertising     10
+
+$100.00
+
+$200.00
+
+The recommended price is $5.00
+
